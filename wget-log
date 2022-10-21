@@ -1,0 +1,7 @@
+--2022-10-20 22:01:28--  https://media.discordapp.net/attachments/585265336874696717/1032814292610842704/baterinalogov3-p-b.png?width=457
+Carregou certificado CA "/etc/ssl/certs/ca-certificates.crt"
+Resolvendo media.discordapp.net (media.discordapp.net)... 162.159.134.232, 162.159.129.232, 162.159.133.232, ...
+Conectando-se a media.discordapp.net (media.discordapp.net)|162.159.134.232|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 400 Bad Request
+2022-10-20 22:01:34 ERRO 400: Bad Request.
+
